@@ -1,7 +1,6 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:login_senai/main.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
